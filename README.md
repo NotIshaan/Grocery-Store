@@ -42,5 +42,5 @@ To get started with this project, follow these instructions:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/grocery-store.git
+   git clone https://github.com/NotIshaan/grocery-store.git
    cd grocery-store
